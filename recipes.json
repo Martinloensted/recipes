@@ -1,31 +1,5 @@
 [
   {
-    "id": "vh-cole-slaw-med-cremet-miso-ingefaer-dressing",
-    "title": "Cole slaw med cremet miso-ingefær-dressing",
-    "category": "Aftensmad",
-    "prepTimeMin": 15,
-    "tags": ["Vegetar"],
-    "imageUrl": "",
-    "ingredients": [
-      "3 spsk lys miso",
-      "6 spsk mayo",
-      "1 spsk lys sirup",
-      "2 stk skal fra lime eller citron",
-      "1,5-2 spsk limesaft eller citronsaft",
-      "1-2 fed hvidløg, fintrevet",
-      "2 tsk ingefær, fintrevet",
-      "strimlet hvidkål",
-      "strimlet eller groftrevet gulerod",
-      "bladselleri i tynde skiver",
-      "æble i små tern",
-      "mynte og/eller koriander",
-      "avokado (valgfrit)"
-    ],
-    "source": "vegetariskhverdag",
-    "url": "https://vegetariskhverdag.dk/2026/05/cole-slaw-med-cremet-miso-ingefaer-dressing/",
-    "baseServings": 4
-  },
-  {
     "id": "vh-nudelsuppe-m-hoisin",
     "title": "Nudelsuppe med hoisin",
     "category": "Aftensmad",
