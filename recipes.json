@@ -4,435 +4,52 @@
     "title": "Cole slaw med cremet miso-ingefær-dressing",
     "category": "Aftensmad",
     "prepTimeMin": 15,
-    "tags": [
-      "Vegetar"
-    ],
+    "tags": ["Vegetar"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "lys miso",
-        "amount": "3",
-        "unit": "spsk"
-      },
-      {
-        "name": "mayo",
-        "amount": "6",
-        "unit": "spsk"
-      },
-      {
-        "name": "lys sirup",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "skal fra lime eller citron",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "limesaft eller citronsaft",
-        "amount": "1,5-2",
-        "unit": "spsk"
-      },
-      {
-        "name": "hvidløg, fintrevet",
-        "amount": "1-2",
-        "unit": "fed"
-      },
-      {
-        "name": "ingefær, fintrevet",
-        "amount": "2",
-        "unit": "tsk"
-      },
-      {
-        "name": "strimlet hvidkål",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "strimlet eller groftrevet gulerod",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "bladselleri i tynde skiver",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "æble i små tern",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "mynte og/eller koriander",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "avokado (valgfrit)",
-        "amount": "",
-        "unit": ""
-      }
+      "3 spsk lys miso",
+      "6 spsk mayo",
+      "1 spsk lys sirup",
+      "2 stk skal fra lime eller citron",
+      "1,5-2 spsk limesaft eller citronsaft",
+      "1-2 fed hvidløg, fintrevet",
+      "2 tsk ingefær, fintrevet",
+      "strimlet hvidkål",
+      "strimlet eller groftrevet gulerod",
+      "bladselleri i tynde skiver",
+      "æble i små tern",
+      "mynte og/eller koriander",
+      "avokado (valgfrit)"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2026/05/cole-slaw-med-cremet-miso-ingefaer-dressing/",
     "baseServings": 4
   },
   {
-    "id": "vh-salat-med-hvidkaal-avokado-feta-og-koriander",
-    "title": "Salat med hvidkål, avokado, feta og koriander",
-    "category": "Aftensmad",
-    "prepTimeMin": 15,
-    "tags": [
-      "Vegetar",
-      "Salat",
-      "Hurtig",
-      "Nem"
-    ],
-    "imageUrl": "",
-    "ingredients": [
-      {
-        "name": "hvidkål, fintsnittet",
-        "amount": "et par",
-        "unit": "håndfulde"
-      },
-      {
-        "name": "olivenolie",
-        "amount": "et lille skvæt",
-        "unit": ""
-      },
-      {
-        "name": "salt",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "avokado",
-        "amount": "1",
-        "unit": "stk"
-      },
-      {
-        "name": "koriander, fintsnitstet",
-        "amount": "1",
-        "unit": "håndfuld"
-      },
-      {
-        "name": "løg, hakket helt fint",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "feta",
-        "amount": "0,25",
-        "unit": "pakke"
-      },
-      {
-        "name": "lime- eller citronsaft",
-        "amount": "",
-        "unit": ""
-      }
-    ],
-    "source": "vegetariskhverdag",
-    "url": "https://vegetariskhverdag.dk/2026/02/salat-med-hvidkaal-avokado-feta-og-koriander/",
-    "baseServings": 1
-  },
-  {
-    "id": "vh-hjemmelavet-mayo-den-nemmeste-maade-med-aeg-eller-vegansk",
-    "title": "Hjemmelavet mayonnaise — den nemmeste måde — med æg eller vegansk",
-    "category": "Aftensmad",
-    "prepTimeMin": 15,
-    "tags": [
-      "Vegetar",
-      "Vegansk",
-      "Nem",
-      "Hurtig",
-      "Sovs & dip"
-    ],
-    "imageUrl": "",
-    "ingredients": [
-      {
-        "name": "neutral olie (koldpresset rapsolie eller druekernolie)",
-        "amount": "2",
-        "unit": "dl"
-      },
-      {
-        "name": "æg (helt æg)",
-        "amount": "1",
-        "unit": "stk"
-      },
-      {
-        "name": "aquafaba (lage fra dåse kikærter, vegansk alternativ)",
-        "amount": "0,5",
-        "unit": "dl"
-      },
-      {
-        "name": "dijonsennep",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "æblecidereddike",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "salt",
-        "amount": "1/2",
-        "unit": "tsk"
-      },
-      {
-        "name": "friskkværnet peber",
-        "amount": "1",
-        "unit": "knivspids"
-      }
-    ],
-    "source": "vegetariskhverdag",
-    "url": "https://vegetariskhverdag.dk/2024/09/hjemmelavet-mayo-den-nemmeste-maade-med-aeg-eller-vegansk/",
-    "baseServings": 2
-  },
-  {
-    "id": "vh-kartoffelsalat-med-creme-fraiche-urter",
-    "title": "Kartoffelsalat med creme fraiche og urter",
-    "category": "Aftensmad",
-    "prepTimeMin": 15,
-    "tags": [
-      "Vegetar",
-      "Salater",
-      "Hurtig"
-    ],
-    "imageUrl": "",
-    "ingredients": [
-      {
-        "name": "kartofler, kogte og afkølede",
-        "amount": "1",
-        "unit": "kg"
-      },
-      {
-        "name": "creme fraiche 38 %",
-        "amount": "200",
-        "unit": "g"
-      },
-      {
-        "name": "valgfrie urter (f.eks. bredbladet persille, purløg og oregano)",
-        "amount": "3",
-        "unit": "håndfulde"
-      },
-      {
-        "name": "rødløg eller almindeligt løg",
-        "amount": "0,5",
-        "unit": ""
-      },
-      {
-        "name": "saltet citron (valgfrit)",
-        "amount": "1/4",
-        "unit": "stk"
-      },
-      {
-        "name": "citronsaft (fra cirka en kvart citron)",
-        "amount": "1/4",
-        "unit": "stk"
-      },
-      {
-        "name": "salt & peber",
-        "amount": "",
-        "unit": ""
-      }
-    ],
-    "source": "vegetariskhverdag",
-    "url": "https://vegetariskhverdag.dk/2024/08/kartoffelsalat-med-creme-fraiche-urter/",
-    "baseServings": 4
-  },
-  {
-    "id": "vh-professorens-groenne-groed-i-min-version",
-    "title": "Professorens grønne grød – i min version",
-    "category": "Aftensmad",
-    "prepTimeMin": 15,
-    "tags": [
-      "Vegetar",
-      "Morgenmad",
-      "Nem",
-      "Hurtig"
-    ],
-    "imageUrl": "",
-    "ingredients": [
-      {
-        "name": "frosne broccolibuketter",
-        "amount": "100",
-        "unit": "g"
-      },
-      {
-        "name": "frossen helbladet spinat",
-        "amount": "1",
-        "unit": "stor terning"
-      },
-      {
-        "name": "citron, skal og saft",
-        "amount": "1/2",
-        "unit": ""
-      },
-      {
-        "name": "mynte (store blade)",
-        "amount": "8-10",
-        "unit": "blade"
-      },
-      {
-        "name": "dadler",
-        "amount": "4-5",
-        "unit": "stk"
-      },
-      {
-        "name": "hampefrø",
-        "amount": "2",
-        "unit": "tsk"
-      },
-      {
-        "name": "kold urtete",
-        "amount": "1",
-        "unit": "dl"
-      },
-      {
-        "name": "æblemost",
-        "amount": "1",
-        "unit": "dl"
-      },
-      {
-        "name": "fennikel",
-        "amount": "1",
-        "unit": "skive"
-      },
-      {
-        "name": "agurk",
-        "amount": "6",
-        "unit": "cm"
-      },
-      {
-        "name": "sojabønner/edamame fra frost",
-        "amount": "30-50",
-        "unit": "g"
-      },
-      {
-        "name": "frisk frugt (fersken, bær, ananas, mango)",
-        "amount": "1",
-        "unit": "håndfuld"
-      },
-      {
-        "name": "cashewsmør eller anden nøddesmør",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "granola",
-        "amount": "",
-        "unit": ""
-      }
-    ],
-    "source": "vegetariskhverdag",
-    "url": "https://vegetariskhverdag.dk/2024/08/professorens-groenne-groed-i-min-version/",
-    "baseServings": 1
-  },
-  {
     "id": "vh-nudelsuppe-m-hoisin",
     "title": "Nudelsuppe med hoisin",
     "category": "Aftensmad",
     "prepTimeMin": 15,
-    "tags": [
-      "Vegetar",
-      "Gryderetter & Supper",
-      "Hurtig"
-    ],
+    "tags": ["Vegetar", "Gryderetter & Supper", "Hurtig"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "vand",
-        "amount": "5-6",
-        "unit": "dl"
-      },
-      {
-        "name": "forårsløg",
-        "amount": "1-2",
-        "unit": "stk"
-      },
-      {
-        "name": "olie",
-        "amount": "0,5",
-        "unit": "spsk"
-      },
-      {
-        "name": "hvidløgsfed",
-        "amount": "1",
-        "unit": "lille fed"
-      },
-      {
-        "name": "ingefær",
-        "amount": "2",
-        "unit": "skiver"
-      },
-      {
-        "name": "fond",
-        "amount": "0,5",
-        "unit": "spsk"
-      },
-      {
-        "name": "soja",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "hoisin",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "riseddike",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "lys tahin",
-        "amount": "1-2",
-        "unit": "tsk"
-      },
-      {
-        "name": "squash",
-        "amount": "0,5",
-        "unit": ""
-      },
-      {
-        "name": "hvede- eller ægnudler",
-        "amount": "1-1,5",
-        "unit": "portion"
-      },
-      {
-        "name": "grønkål, færdigsnittet og skyllet",
-        "amount": "1",
-        "unit": "håndfuld"
-      },
-      {
-        "name": "æg",
-        "amount": "1-2",
-        "unit": "stk"
-      },
-      {
-        "name": "forårsløg, finthakket",
-        "amount": "1",
-        "unit": "stk"
-      },
-      {
-        "name": "sesamfrø",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "chiliolie",
-        "amount": "",
-        "unit": ""
-      }
+      "5-6 dl vand",
+      "1-2 stk forårsløg",
+      "0,5 spsk olie",
+      "1 lille fed hvidløgsfed",
+      "2 skiver ingefær",
+      "0,5 spsk fond",
+      "1 spsk soja",
+      "1 spsk hoisin",
+      "1 tsk riseddike",
+      "1-2 tsk lys tahin",
+      "0,5 squash",
+      "1-1,5 portion hvede- eller ægnudler",
+      "1 håndfuld grønkål, færdigsnittet og skyllet",
+      "1-2 stk æg",
+      "1 stk forårsløg, finthakket",
+      "sesamfrø",
+      "chiliolie"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2024/01/nudelsuppe-m-hoisin/",
@@ -443,66 +60,20 @@
     "title": "Pasta Alfredo med grønt",
     "category": "Aftensmad",
     "prepTimeMin": 30,
-    "tags": [
-      "Vegetar"
-    ],
+    "tags": ["Vegetar"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "pasta",
-        "amount": "320-400",
-        "unit": "g"
-      },
-      {
-        "name": "smør",
-        "amount": "50",
-        "unit": "g"
-      },
-      {
-        "name": "løg",
-        "amount": "1",
-        "unit": "stk"
-      },
-      {
-        "name": "hvidløg",
-        "amount": "1-2",
-        "unit": "fed"
-      },
-      {
-        "name": "peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "piskefløde 38 %",
-        "amount": "2",
-        "unit": "dl"
-      },
-      {
-        "name": "fintrevet parmesan",
-        "amount": "2",
-        "unit": "dl"
-      },
-      {
-        "name": "salt",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "snitbønner, grønne bønner, ærter, hvidkål, asparges eller lignende",
-        "amount": "500",
-        "unit": "g"
-      },
-      {
-        "name": "parmesan",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "citron",
-        "amount": "",
-        "unit": ""
-      }
+      "320-400 g pasta",
+      "50 g smør",
+      "1 stk løg",
+      "1-2 fed hvidløg",
+      "peber",
+      "2 dl piskefløde 38 %",
+      "2 dl fintrevet parmesan",
+      "salt",
+      "500 g snitbønner, grønne bønner, ærter, hvidkål, asparges eller lignende",
+      "parmesan",
+      "citron"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2026/05/pasta-alfredo-med-groent/",
@@ -513,68 +84,20 @@
     "title": "Pizza bianca med svampe & brunet chilismør med purløg",
     "category": "Aftensmad",
     "prepTimeMin": 30,
-    "tags": [
-      "Vegetar",
-      "Comfort food",
-      "Hurtig"
-    ],
+    "tags": ["Vegetar", "Comfort food", "Hurtig"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "surdejspizzadej fra Il Fornaio",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "mozzarella",
-        "amount": "1",
-        "unit": "stk"
-      },
-      {
-        "name": "creme fraiche 18%",
-        "amount": "200",
-        "unit": "g"
-      },
-      {
-        "name": "salt",
-        "amount": "1",
-        "unit": "drys"
-      },
-      {
-        "name": "smør",
-        "amount": "30",
-        "unit": "g"
-      },
-      {
-        "name": "chili flakes",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "purløg",
-        "amount": "1",
-        "unit": "håndfuld"
-      },
-      {
-        "name": "portobello eller anden svamp",
-        "amount": "250",
-        "unit": "g"
-      },
-      {
-        "name": "olivenolie",
-        "amount": "1-2",
-        "unit": "spsk"
-      },
-      {
-        "name": "røget salt",
-        "amount": "1",
-        "unit": "drys"
-      },
-      {
-        "name": "parmesan",
-        "amount": "",
-        "unit": ""
-      }
+      "2 stk surdejspizzadej fra Il Fornaio",
+      "1 stk mozzarella",
+      "200 g creme fraiche 18%",
+      "1 drys salt",
+      "30 g smør",
+      "1 tsk chili flakes",
+      "1 håndfuld purløg",
+      "250 g portobello eller anden svamp",
+      "1-2 spsk olivenolie",
+      "1 drys røget salt",
+      "parmesan"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2024/05/pizza-bianca-med-svampe-brunet-chilismoer-med-purloeg/",
@@ -585,73 +108,21 @@
     "title": "Pizza bianca med majs & ramsløgspistou",
     "category": "Aftensmad",
     "prepTimeMin": 30,
-    "tags": [
-      "Vegetar",
-      "Nem",
-      "Hurtig"
-    ],
+    "tags": ["Vegetar", "Nem", "Hurtig"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "ramsløg",
-        "amount": "30",
-        "unit": "g"
-      },
-      {
-        "name": "olivenolie",
-        "amount": "0,5",
-        "unit": "dl"
-      },
-      {
-        "name": "salt",
-        "amount": "0,5",
-        "unit": "tsk"
-      },
-      {
-        "name": "citronsaft",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "frosne majs",
-        "amount": "200",
-        "unit": "g"
-      },
-      {
-        "name": "salt og peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "neutral olie",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "pizzabund bianca fra Il Fornaio",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "mozzarella",
-        "amount": "2",
-        "unit": "kugler"
-      },
-      {
-        "name": "chili flakes",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "pecorino",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "olivenolie",
-        "amount": "",
-        "unit": ""
-      }
+      "30 g ramsløg",
+      "0,5 dl olivenolie",
+      "0,5 tsk salt",
+      "1 spsk citronsaft",
+      "200 g frosne majs",
+      "salt og peber",
+      "neutral olie",
+      "2 stk pizzabund bianca fra Il Fornaio",
+      "2 kugler mozzarella",
+      "chili flakes",
+      "pecorino",
+      "olivenolie"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2024/05/pizza-bianca-med-majs-ramsloegspistou/",
@@ -662,102 +133,27 @@
     "title": "Hasselbacksbåde med Café de Paris yoghurt",
     "category": "Aftensmad",
     "prepTimeMin": 40,
-    "tags": [
-      "Vegetar",
-      "Plademad"
-    ],
+    "tags": ["Vegetar", "Plademad"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "kartofler",
-        "amount": "1",
-        "unit": "kg"
-      },
-      {
-        "name": "blomkålshoved",
-        "amount": "1",
-        "unit": "lille"
-      },
-      {
-        "name": "fennikel",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "olie",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "salt og peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "hvidløg",
-        "amount": "1/2",
-        "unit": "fed"
-      },
-      {
-        "name": "frisk estragon, finthakket",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "kapers",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "kaperslage",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "græsk yoghurt 10%",
-        "amount": "300",
-        "unit": "g"
-      },
-      {
-        "name": "ketchup",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "dijonsennep",
-        "amount": "2",
-        "unit": "tsk"
-      },
-      {
-        "name": "citronsaft",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "paprikapulver",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "karrypulver",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "salt",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "røde peberfrugter",
-        "amount": "3",
-        "unit": "stk"
-      },
-      {
-        "name": "persille",
-        "amount": "1",
-        "unit": "bundt"
-      }
+      "1 kg kartofler",
+      "1 lille blomkålshoved",
+      "2 stk fennikel",
+      "2 spsk olie",
+      "salt og peber",
+      "1/2 fed hvidløg",
+      "1 spsk frisk estragon, finthakket",
+      "2 spsk kapers",
+      "2 spsk kaperslage",
+      "300 g græsk yoghurt 10%",
+      "1 spsk ketchup",
+      "2 tsk dijonsennep",
+      "1 spsk citronsaft",
+      "1 tsk paprikapulver",
+      "1 tsk karrypulver",
+      "1 tsk salt",
+      "3 stk røde peberfrugter",
+      "1 bundt persille"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2024/02/hasselbacksbaade-med-cafe-de-paris-yoghurt/",
@@ -768,126 +164,31 @@
     "title": "Halloumi med persillesovs og doven kartoffelmos",
     "category": "Aftensmad",
     "prepTimeMin": 45,
-    "tags": [
-      "Vegetar"
-    ],
+    "tags": ["Vegetar"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "kartofler til mos",
-        "amount": "1",
-        "unit": "kg"
-      },
-      {
-        "name": "olivenolie",
-        "amount": "0,5",
-        "unit": "dl"
-      },
-      {
-        "name": "smør",
-        "amount": "3",
-        "unit": "spsk"
-      },
-      {
-        "name": "salt og peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "smør",
-        "amount": "3",
-        "unit": "spsk"
-      },
-      {
-        "name": "hvedemel",
-        "amount": "3",
-        "unit": "spsk"
-      },
-      {
-        "name": "vand",
-        "amount": "4",
-        "unit": "dl"
-      },
-      {
-        "name": "fløde",
-        "amount": "1,5",
-        "unit": "dl"
-      },
-      {
-        "name": "hvidvin",
-        "amount": "0,5",
-        "unit": "dl"
-      },
-      {
-        "name": "koncentreret grøntsagsfond",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "muskatnød",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "salt og friskkværnet peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "citroner, skallen",
-        "amount": "1-2",
-        "unit": "stk"
-      },
-      {
-        "name": "bredbladet persille, finthakket",
-        "amount": "1-2",
-        "unit": "håndfulde"
-      },
-      {
-        "name": "halloumi",
-        "amount": "400",
-        "unit": "g"
-      },
-      {
-        "name": "æg, sammenpisket",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "mel",
-        "amount": "1",
-        "unit": "dl"
-      },
-      {
-        "name": "pankorasp",
-        "amount": "3",
-        "unit": "dl"
-      },
-      {
-        "name": "neutral olie",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "smør",
-        "amount": "50",
-        "unit": "g"
-      },
-      {
-        "name": "frosne grønne bønner",
-        "amount": "300",
-        "unit": "g"
-      },
-      {
-        "name": "citronsaft",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "olivenolie",
-        "amount": "1",
-        "unit": "spsk"
-      }
+      "1 kg kartofler til mos",
+      "0,5 dl olivenolie",
+      "3 spsk smør",
+      "salt og peber",
+      "3 spsk hvedemel",
+      "4 dl vand",
+      "1,5 dl fløde",
+      "0,5 dl hvidvin",
+      "1 spsk koncentreret grøntsagsfond",
+      "muskatnød",
+      "salt og friskkværnet peber",
+      "1-2 stk citroner, skallen",
+      "1-2 håndfulde bredbladet persille, finthakket",
+      "400 g halloumi",
+      "2 stk æg, sammenpisket",
+      "1 dl mel",
+      "3 dl pankorasp",
+      "neutral olie",
+      "50 g smør",
+      "300 g frosne grønne bønner",
+      "citronsaft",
+      "1 spsk olivenolie"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2026/03/halloumi-med-persillesovs-og-doven-kartoffelmos/",
@@ -898,340 +199,65 @@
     "title": "Kikærtedeller med feta & ovnbagte rodfrugter",
     "category": "Aftensmad",
     "prepTimeMin": 45,
-    "tags": [
-      "Vegetar",
-      "Plademad"
-    ],
+    "tags": ["Vegetar", "Plademad"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "quinoa eller bulgur",
-        "amount": "1",
-        "unit": "dl"
-      },
-      {
-        "name": "vand",
-        "amount": "2",
-        "unit": "dl"
-      },
-      {
-        "name": "fond",
-        "amount": "2",
-        "unit": "tsk"
-      },
-      {
-        "name": "løg",
-        "amount": "1",
-        "unit": ""
-      },
-      {
-        "name": "kikærter (drænede)",
-        "amount": "240",
-        "unit": "g"
-      },
-      {
-        "name": "æg",
-        "amount": "1",
-        "unit": "stort"
-      },
-      {
-        "name": "havregryn, finvalsede",
-        "amount": "2",
-        "unit": "dl"
-      },
-      {
-        "name": "løgpulver",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "røget paprika",
-        "amount": "1",
-        "unit": "knsp"
-      },
-      {
-        "name": "smuldret fetaost",
-        "amount": "100",
-        "unit": "g"
-      },
-      {
-        "name": "salt",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "kartofler",
-        "amount": "800",
-        "unit": "g"
-      },
-      {
-        "name": "rødbeder",
-        "amount": "500",
-        "unit": "g"
-      },
-      {
-        "name": "olivenolie",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "salt og peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "yoghurt, ymer eller lign.",
-        "amount": "2,5",
-        "unit": "dl"
-      },
-      {
-        "name": "mayonnaisse",
-        "amount": "0,5",
-        "unit": "dl"
-      },
-      {
-        "name": "salt",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "lys sirup",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "hvidløgspulver",
-        "amount": "0,5",
-        "unit": "tsk"
-      },
-      {
-        "name": "dijonsennep",
-        "amount": "0,5-1",
-        "unit": "tsk"
-      },
-      {
-        "name": "sort peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "friske krydderurter som persille og dild",
-        "amount": "",
-        "unit": ""
-      }
+      "1 dl quinoa eller bulgur",
+      "2 dl vand",
+      "2 tsk fond",
+      "1 løg",
+      "240 g kikærter (drænede)",
+      "1 stort æg",
+      "2 dl havregryn, finvalsede",
+      "1 tsk løgpulver",
+      "1 knsp røget paprika",
+      "100 g smuldret fetaost",
+      "1 tsk salt",
+      "peber",
+      "800 g kartofler",
+      "500 g rødbeder",
+      "2 spsk olivenolie",
+      "salt og peber",
+      "2,5 dl yoghurt, ymer eller lign.",
+      "0,5 dl mayonnaisse",
+      "1 tsk lys sirup",
+      "0,5 tsk hvidløgspulver",
+      "0,5-1 tsk dijonsennep",
+      "sort peber",
+      "friske krydderurter som persille og dild"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2025/01/kikaertedeller-med-feta-ovnbagte-rodfrugter/",
     "baseServings": 4
   },
   {
-    "id": "vh-nem-jordbaertaerte-med-koldskaalscreme-pistaciebund",
-    "title": "Nem jordbærtærte med koldskålscreme og pistaciebund",
-    "category": "Aftensmad",
-    "prepTimeMin": 45,
-    "tags": [
-      "Vegetar",
-      "Bagværk",
-      "Fest"
-    ],
-    "imageUrl": "",
-    "ingredients": [
-      {
-        "name": "pistaciemel (ca. 200 g saltede pistacie med skal)",
-        "amount": "100-125",
-        "unit": "g"
-      },
-      {
-        "name": "tvebakker",
-        "amount": "300",
-        "unit": "g"
-      },
-      {
-        "name": "æg",
-        "amount": "6",
-        "unit": "stk"
-      },
-      {
-        "name": "rørsukker",
-        "amount": "400",
-        "unit": "g"
-      },
-      {
-        "name": "pasteuriseret æggeblomme",
-        "amount": "65",
-        "unit": "g"
-      },
-      {
-        "name": "citron, skal og saft",
-        "amount": "0,5",
-        "unit": "stk"
-      },
-      {
-        "name": "maizena",
-        "amount": "25",
-        "unit": "g"
-      },
-      {
-        "name": "sukker",
-        "amount": "40",
-        "unit": "g"
-      },
-      {
-        "name": "vaniljestang",
-        "amount": "0,5",
-        "unit": "stk"
-      },
-      {
-        "name": "ymer / A83 / tykmælk",
-        "amount": "200",
-        "unit": "g"
-      },
-      {
-        "name": "smør",
-        "amount": "20",
-        "unit": "g"
-      },
-      {
-        "name": "piskefløde",
-        "amount": "250",
-        "unit": "g"
-      },
-      {
-        "name": "citron, skal og saft",
-        "amount": "0,5",
-        "unit": "stk"
-      },
-      {
-        "name": "jordbær eller anden frugt/bær",
-        "amount": "1",
-        "unit": "kg"
-      },
-      {
-        "name": "Hyldeblomster eller hybenroseblade til pynt",
-        "amount": "",
-        "unit": ""
-      }
-    ],
-    "source": "vegetariskhverdag",
-    "url": "https://vegetariskhverdag.dk/2024/06/nem-jordbaertaerte-med-koldskaalscreme-pistaciebund/",
-    "baseServings": 8
-  },
-  {
     "id": "vh-kua-kling-sydoestasiatisk-biksemad",
     "title": "Kua Kling – sydøstasiatisk biksemad",
     "category": "Aftensmad",
     "prepTimeMin": 45,
-    "tags": [
-      "Vegetar",
-      "Smæk på krydderierne"
-    ],
+    "tags": ["Vegetar", "Smæk på krydderierne"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "jasminris",
-        "amount": "4",
-        "unit": "dl"
-      },
-      {
-        "name": "vand",
-        "amount": "5,5",
-        "unit": "dl"
-      },
-      {
-        "name": "salt",
-        "amount": "0,5",
-        "unit": "tsk"
-      },
-      {
-        "name": "ristet kokos",
-        "amount": "3",
-        "unit": "spsk"
-      },
-      {
-        "name": "fast tofu",
-        "amount": "400",
-        "unit": "g"
-      },
-      {
-        "name": "svamp",
-        "amount": "200",
-        "unit": "g"
-      },
-      {
-        "name": "olie",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "salt",
-        "amount": "2",
-        "unit": "tsk"
-      },
-      {
-        "name": "sort peber",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "hvidløgsfed",
-        "amount": "4",
-        "unit": ""
-      },
-      {
-        "name": "citrongræs",
-        "amount": "1",
-        "unit": ""
-      },
-      {
-        "name": "rød eller gul chilli",
-        "amount": "1-2",
-        "unit": ""
-      },
-      {
-        "name": "rød curry paste",
-        "amount": "3",
-        "unit": "spsk"
-      },
-      {
-        "name": "vand",
-        "amount": "1",
-        "unit": "dl"
-      },
-      {
-        "name": "sirup",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "lys soya",
-        "amount": "2,5",
-        "unit": "spsk"
-      },
-      {
-        "name": "forårsløg",
-        "amount": "1",
-        "unit": "bundt"
-      },
-      {
-        "name": "hakket limeblad",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "lime (skal og saft)",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "koriander",
-        "amount": "1",
-        "unit": "bundt"
-      }
+      "4 dl jasminris",
+      "5,5 dl vand",
+      "0,5 tsk salt",
+      "3 spsk ristet kokos",
+      "400 g fast tofu",
+      "200 g svamp",
+      "2 spsk olie",
+      "2 tsk salt",
+      "1 tsk sort peber",
+      "4 hvidløgsfed",
+      "1 citrongræs",
+      "1-2 rød eller gul chilli",
+      "3 spsk rød curry paste",
+      "1 dl vand",
+      "1 spsk sirup",
+      "2,5 spsk lys soya",
+      "1 bundt forårsløg",
+      "1 spsk hakket limeblad",
+      "2 stk lime (skal og saft)",
+      "1 bundt koriander"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2024/03/kua-kling-sydoestasiatisk-biksemad/",
@@ -1242,122 +268,31 @@
     "title": "Vietnamesisk pizza (Bánh Tráng Nuóng)",
     "category": "Aftensmad",
     "prepTimeMin": 45,
-    "tags": [
-      "Vegetar",
-      "Nem"
-    ],
+    "tags": ["Vegetar", "Nem"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "aubergine",
-        "amount": "1",
-        "unit": "stk"
-      },
-      {
-        "name": "svamp (f.eks. østershatte)",
-        "amount": "250",
-        "unit": "g"
-      },
-      {
-        "name": "neutral olie",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "salt",
-        "amount": "1",
-        "unit": "drys"
-      },
-      {
-        "name": "sriracha",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "soya",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "lys sirup",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "ristet sesamolie",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "hvidløgspulver",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "røget paprika",
-        "amount": "0,5",
-        "unit": "tsk"
-      },
-      {
-        "name": "peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "mayo",
-        "amount": "100",
-        "unit": "g"
-      },
-      {
-        "name": "soja",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "lys sirup",
-        "amount": "2",
-        "unit": "tsk"
-      },
-      {
-        "name": "forårsløg",
-        "amount": "1",
-        "unit": "bundt"
-      },
-      {
-        "name": "koriander",
-        "amount": "1",
-        "unit": "bundt"
-      },
-      {
-        "name": "broccolini",
-        "amount": "250",
-        "unit": "g"
-      },
-      {
-        "name": "æg",
-        "amount": "8",
-        "unit": "stk"
-      },
-      {
-        "name": "rundt rispapir",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "sriracha",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "ristede løg",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "ristede og saltede cashewnødder eller peanuts, finthakkede",
-        "amount": "",
-        "unit": ""
-      }
+      "1 stk aubergine",
+      "250 g svamp (f.eks. østershatte)",
+      "2 spsk neutral olie",
+      "1 drys salt",
+      "2 spsk sriracha",
+      "2 spsk soya",
+      "2 spsk lys sirup",
+      "1 spsk ristet sesamolie",
+      "1 tsk hvidløgspulver",
+      "0,5 tsk røget paprika",
+      "peber",
+      "100 g mayo",
+      "1 tsk soja",
+      "2 tsk lys sirup",
+      "1 bundt forårsløg",
+      "1 bundt koriander",
+      "250 g broccolini",
+      "8 stk æg",
+      "rundt rispapir",
+      "sriracha",
+      "ristede løg",
+      "ristede og saltede cashewnødder eller peanuts, finthakkede"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2024/02/vietnamesisk-pizza-banh-trang-nuong/",
@@ -1368,142 +303,35 @@
     "title": "Kartoffelmos og sovs (med grillet savoy, svamp og tyttebær)",
     "category": "Aftensmad",
     "prepTimeMin": 45,
-    "tags": [
-      "Vegetar",
-      "Comfort food"
-    ],
+    "tags": ["Vegetar", "Comfort food"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "løg",
-        "amount": "1-2",
-        "unit": "stk"
-      },
-      {
-        "name": "hvidløgsfed",
-        "amount": "1",
-        "unit": "stk"
-      },
-      {
-        "name": "svampe fra pakken",
-        "amount": "4",
-        "unit": "stk"
-      },
-      {
-        "name": "olie/smør",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "salt",
-        "amount": "0,5",
-        "unit": "tsk"
-      },
-      {
-        "name": "laurbærblade",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "kviste timian eller rosmarin",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "vin",
-        "amount": "0,5",
-        "unit": "dl"
-      },
-      {
-        "name": "miso eller konc. grøntsagsfond",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "soja",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "sirup",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "vand",
-        "amount": "1,5",
-        "unit": "dl"
-      },
-      {
-        "name": "sort peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "bønner med lage",
-        "amount": "400",
-        "unit": "g"
-      },
-      {
-        "name": "cream cheese",
-        "amount": "150",
-        "unit": "g"
-      },
-      {
-        "name": "kartofler",
-        "amount": "1",
-        "unit": "kg"
-      },
-      {
-        "name": "mælk",
-        "amount": "3",
-        "unit": "dl"
-      },
-      {
-        "name": "smør",
-        "amount": "125",
-        "unit": "g"
-      },
-      {
-        "name": "kviste timian eller rosmarin",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "salt",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "savoy kål",
-        "amount": "1",
-        "unit": "stk"
-      },
-      {
-        "name": "pakker valgfrie svamp",
-        "amount": "1-2",
-        "unit": "stk"
-      },
-      {
-        "name": "neutral olie",
-        "amount": "2-3",
-        "unit": "spsk"
-      },
-      {
-        "name": "salt",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "sort peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "tyttebærsyltetøj eller ribsgelé",
-        "amount": "",
-        "unit": ""
-      }
+      "1-2 stk løg",
+      "1 stk hvidløgsfed",
+      "4 stk svampe fra pakken",
+      "1 spsk olie/smør",
+      "0,5 tsk salt",
+      "2 stk laurbærblade",
+      "2 stk kviste timian eller rosmarin",
+      "0,5 dl vin",
+      "1 spsk miso eller konc. grøntsagsfond",
+      "1 spsk soja",
+      "1 spsk sirup",
+      "1,5 dl vand",
+      "sort peber",
+      "400 g bønner med lage",
+      "150 g cream cheese",
+      "1 kg kartofler",
+      "3 dl mælk",
+      "125 g smør",
+      "2 stk kviste timian eller rosmarin",
+      "salt",
+      "1 stk savoy kål",
+      "1-2 stk pakker valgfrie svamp",
+      "2-3 spsk neutral olie",
+      "1 tsk salt",
+      "sort peber",
+      "tyttebærsyltetøj eller ribsgelé"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2024/01/mos-og-sovs-med-grillet-savoy-svamp-tyttebaer/",
@@ -1514,370 +342,30 @@
     "title": "Flækærter med citron og tahin",
     "category": "Aftensmad",
     "prepTimeMin": 60,
-    "tags": [
-      "Vegetar",
-      "Vegansk",
-      "Gryderetter & Supper"
-    ],
+    "tags": ["Vegetar", "Vegansk", "Gryderetter & Supper"],
     "imageUrl": "",
     "ingredients": [
-      {
-        "name": "løg",
-        "amount": "3",
-        "unit": "stk"
-      },
-      {
-        "name": "gulerødder",
-        "amount": "3",
-        "unit": "stk"
-      },
-      {
-        "name": "bladselleri",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "olivenolie",
-        "amount": "3-4",
-        "unit": "spsk"
-      },
-      {
-        "name": "salt og peber",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "hvidløg",
-        "amount": "3-4",
-        "unit": "fed"
-      },
-      {
-        "name": "flækærter",
-        "amount": "3,5",
-        "unit": "dl"
-      },
-      {
-        "name": "kogende vand",
-        "amount": "1,5",
-        "unit": "l"
-      },
-      {
-        "name": "konc. grøntsagsfond",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "natron",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "lys tahin",
-        "amount": "4",
-        "unit": "spsk"
-      },
-      {
-        "name": "citron, skallen",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "citron, saften",
-        "amount": "0,5-1",
-        "unit": "stk"
-      },
-      {
-        "name": "dild, finthakket",
-        "amount": "5",
-        "unit": "spsk"
-      },
-      {
-        "name": "Dild",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "Citronskal",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "Brødcroutoner eller ristet brød",
-        "amount": "",
-        "unit": ""
-      },
-      {
-        "name": "Chili flakes eller chiliolie",
-        "amount": "",
-        "unit": ""
-      }
+      "3 stk løg",
+      "3 stk gulerødder",
+      "bladselleri",
+      "3-4 spsk olivenolie",
+      "salt og peber",
+      "3-4 fed hvidløg",
+      "3,5 dl flækærter",
+      "1,5 l kogende vand",
+      "2 spsk konc. grøntsagsfond",
+      "1 tsk natron",
+      "4 spsk lys tahin",
+      "2 stk citron, skallen",
+      "0,5-1 stk citron, saften",
+      "5 spsk dild, finthakket",
+      "Dild",
+      "Citronskal",
+      "Brødcroutoner eller ristet brød",
+      "Chili flakes eller chiliolie"
     ],
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2026/01/flaekaerter-med-citron-og-tahin/",
     "baseServings": 4
-  },
-  {
-    "id": "vh-aeble-og-timiangalette",
-    "title": "Æble- og timiangalette",
-    "category": "Aftensmad",
-    "prepTimeMin": 60,
-    "tags": [
-      "Vegetar",
-      "Bagværk"
-    ],
-    "imageUrl": "",
-    "ingredients": [
-      {
-        "name": "hvedemel",
-        "amount": "280",
-        "unit": "g"
-      },
-      {
-        "name": "havregryn",
-        "amount": "20",
-        "unit": "g"
-      },
-      {
-        "name": "salt",
-        "amount": "1",
-        "unit": "tsk"
-      },
-      {
-        "name": "flormelis",
-        "amount": "125",
-        "unit": "g"
-      },
-      {
-        "name": "koldt smør",
-        "amount": "150",
-        "unit": "g"
-      },
-      {
-        "name": "æg",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "æbler",
-        "amount": "2",
-        "unit": "stk"
-      },
-      {
-        "name": "smør",
-        "amount": "4",
-        "unit": "spsk"
-      },
-      {
-        "name": "sukker",
-        "amount": "4",
-        "unit": "spsk"
-      },
-      {
-        "name": "æblecidereddike",
-        "amount": "2",
-        "unit": "spsk"
-      },
-      {
-        "name": "kartoffelmel",
-        "amount": "2",
-        "unit": "tsk"
-      },
-      {
-        "name": "æbler",
-        "amount": "4",
-        "unit": "stk"
-      },
-      {
-        "name": "sukker",
-        "amount": "0,5",
-        "unit": "dl"
-      },
-      {
-        "name": "frisk timian",
-        "amount": "1",
-        "unit": "spsk"
-      },
-      {
-        "name": "salt",
-        "amount": "1",
-        "unit": "nip"
-      },
-      {
-        "name": "vaniljeis eller creme fraiche",
-        "amount": "",
-        "unit": ""
-      }
-    ],
-    "source": "vegetariskhverdag",
-    "url": "https://vegetariskhverdag.dk/2024/10/aeble-og-timiangalette/",
-    "baseServings": 6
-  },
-  {
-    "id": "vh-mirabelle-earl-grey-marmelade",
-    "title": "Mirabelle og earl grey marmelade",
-    "category": "Aftensmad",
-    "prepTimeMin": 150,
-    "tags": [
-      "Vegetar",
-      "Morgenmad",
-      "Mere end 1 time"
-    ],
-    "imageUrl": "",
-    "ingredients": [
-      {
-        "name": "mirabeller (eller valgfrie aromatiske blommer)",
-        "amount": "1",
-        "unit": "kg"
-      },
-      {
-        "name": "sukker",
-        "amount": "500",
-        "unit": "g"
-      },
-      {
-        "name": "salt",
-        "amount": "0,25",
-        "unit": "tsk"
-      },
-      {
-        "name": "natron",
-        "amount": "0,5",
-        "unit": "tsk"
-      },
-      {
-        "name": "earl grey te efter smag",
-        "amount": "0,25-0,5",
-        "unit": "tsk"
-      }
-    ],
-    "source": "vegetariskhverdag",
-    "url": "https://vegetariskhverdag.dk/2024/08/mirabelle-earl-grey-marmelade/",
-    "baseServings": 3
-  },
-  {
-    "id": "vh-safranssnurrer-med-citrus-og-vanilje",
-    "title": "Safranssnurrer med citrus og vanilje",
-    "category": "Aftensmad",
-    "prepTimeMin": 0,
-    "tags": [
-      "Vegetar",
-      "Bagværk"
-    ],
-    "imageUrl": "",
-    "ingredients": [
-      {
-        "name": "safran, knust",
-        "amount": "1",
-        "unit": "g"
-      },
-      {
-        "name": "kogende vand",
-        "amount": "100",
-        "unit": "g"
-      },
-      {
-        "name": "koldt vand",
-        "amount": "150",
-        "unit": "g"
-      },
-      {
-        "name": "kartoffelmel",
-        "amount": "50",
-        "unit": "g"
-      },
-      {
-        "name": "salt",
-        "amount": "5",
-        "unit": "g"
-      },
-      {
-        "name": "æg",
-        "amount": "1",
-        "unit": "stk"
-      },
-      {
-        "name": "gær",
-        "amount": "30",
-        "unit": "g"
-      },
-      {
-        "name": "sukker",
-        "amount": "105",
-        "unit": "g"
-      },
-      {
-        "name": "hvedemel",
-        "amount": "450",
-        "unit": "g"
-      },
-      {
-        "name": "smør",
-        "amount": "80",
-        "unit": "g"
-      },
-      {
-        "name": "neutral olie",
-        "amount": "25",
-        "unit": "g"
-      },
-      {
-        "name": "blødt eller revet smør",
-        "amount": "100",
-        "unit": "g"
-      },
-      {
-        "name": "sukker",
-        "amount": "100",
-        "unit": "g"
-      },
-      {
-        "name": "salt",
-        "amount": "0.25",
-        "unit": "tsk"
-      },
-      {
-        "name": "vaniljepulver",
-        "amount": "0.25",
-        "unit": "tsk"
-      },
-      {
-        "name": "maizena",
-        "amount": "2",
-        "unit": "tsk"
-      },
-      {
-        "name": "appelsin (skal og saft)",
-        "amount": "0.5",
-        "unit": "stk"
-      },
-      {
-        "name": "rosiner, hakkede",
-        "amount": "50",
-        "unit": "g"
-      },
-      {
-        "name": "sukker",
-        "amount": "50",
-        "unit": "g"
-      },
-      {
-        "name": "vand",
-        "amount": "50",
-        "unit": "g"
-      },
-      {
-        "name": "vaniljepulver",
-        "amount": "0.25",
-        "unit": "tsk"
-      },
-      {
-        "name": "appelsin (skal og saft)",
-        "amount": "0.5",
-        "unit": "stk"
-      }
-    ],
-    "source": "vegetariskhverdag",
-    "url": "https://vegetariskhverdag.dk/2024/12/safranssnurrer-med-citrus-og-vanilje/",
-    "baseServings": 12
   }
 ]
