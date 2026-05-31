@@ -1,0 +1,47 @@
+name: Scrape Aftensmad Recipes
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run scraper
+        run: python scripts/scrape_aftensmad.py
+
+      - name: Check for new recipes
+        id: diff
+        run: |
+          if git diff --quiet recipes.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            added=$(git diff recipes.json | grep -c '^+.*"id"' || true)
+            echo "added=$added" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit new recipes
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add recipes.json
+          git commit -m "chore: add ${{ steps.diff.outputs.added }} new Aftensmad recipes [skip ci]"
+          git push
