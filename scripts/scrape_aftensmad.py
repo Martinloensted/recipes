@@ -135,6 +135,10 @@ def parse_recipe(url: str) -> dict | None:
                 base_servings = int(m.group(1))
                 break
 
+    # Image URL from og:image
+    og_image = soup.select_one('meta[property="og:image"]')
+    image_url = og_image["content"].strip() if og_image and og_image.get("content") else ""
+
     # Tags
     tags = ["Vegetar"]
     for sel in [".tag", ".tags a", ".recipe-tag", "[class*='tag']", ".category a"]:
@@ -183,7 +187,7 @@ def parse_recipe(url: str) -> dict | None:
         "category": "Aftensmad",
         "prepTimeMin": prep_time,
         "tags": tags,
-        "imageUrl": "",
+        "imageUrl": image_url,
         "ingredients": ingredients,
         "source": "vegetariskhverdag",
         "url": url,
@@ -207,6 +211,20 @@ def main() -> None:
     existing_ids = {r["id"] for r in existing}
     existing_urls = {r["url"] for r in existing}
     print(f"Existing recipes: {len(existing)}")
+
+    # Backfill imageUrl for any existing recipe that is missing it
+    needs_image = [r for r in existing if not r.get("imageUrl")]
+    if needs_image:
+        print(f"Backfilling imageUrl for {len(needs_image)} existing recipes...")
+        for r in needs_image:
+            print(f"  {r['url']}")
+            try:
+                soup = get_soup(r["url"])
+                og = soup.select_one('meta[property="og:image"]')
+                r["imageUrl"] = og["content"].strip() if og and og.get("content") else ""
+                print(f"    -> {r['imageUrl'][:80]}" if r["imageUrl"] else "    -> (not found)")
+            except Exception as e:
+                print(f"    Error: {e}")
 
     print("Discovering Aftensmad URLs...")
     all_urls = discover_aftensmad_urls()

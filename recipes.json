@@ -4,8 +4,12 @@
     "title": "Nudelsuppe med hoisin",
     "category": "Aftensmad",
     "prepTimeMin": 15,
-    "tags": ["Vegetar", "Gryderetter & Supper", "Hurtig"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar",
+      "Gryderetter & Supper",
+      "Hurtig"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/01/nudelsuppe-hoisin.jpg",
     "ingredients": [
       "5-6 dl vand",
       "1-2 stk forårsløg",
@@ -34,8 +38,10 @@
     "title": "Pasta Alfredo med grønt",
     "category": "Aftensmad",
     "prepTimeMin": 30,
-    "tags": ["Vegetar"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2026/05/pasta-alfredo.jpg",
     "ingredients": [
       "320-400 g pasta",
       "50 g smør",
@@ -58,8 +64,12 @@
     "title": "Pizza bianca med svampe & brunet chilismør med purløg",
     "category": "Aftensmad",
     "prepTimeMin": 30,
-    "tags": ["Vegetar", "Comfort food", "Hurtig"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar",
+      "Comfort food",
+      "Hurtig"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/05/il-fornaio-pizza.jpg",
     "ingredients": [
       "2 stk surdejspizzadej fra Il Fornaio",
       "1 stk mozzarella",
@@ -82,8 +92,12 @@
     "title": "Pizza bianca med majs & ramsløgspistou",
     "category": "Aftensmad",
     "prepTimeMin": 30,
-    "tags": ["Vegetar", "Nem", "Hurtig"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar",
+      "Nem",
+      "Hurtig"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/05/il-fornaio-pizza-1.jpg",
     "ingredients": [
       "30 g ramsløg",
       "0,5 dl olivenolie",
@@ -107,8 +121,11 @@
     "title": "Hasselbacksbåde med Café de Paris yoghurt",
     "category": "Aftensmad",
     "prepTimeMin": 40,
-    "tags": ["Vegetar", "Plademad"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar",
+      "Plademad"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/02/hasselback-cafe-de-paris.jpg",
     "ingredients": [
       "1 kg kartofler",
       "1 lille blomkålshoved",
@@ -138,8 +155,10 @@
     "title": "Halloumi med persillesovs og doven kartoffelmos",
     "category": "Aftensmad",
     "prepTimeMin": 45,
-    "tags": ["Vegetar"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2026/03/halloumi-persillesovs.jpg",
     "ingredients": [
       "1 kg kartofler til mos",
       "0,5 dl olivenolie",
@@ -173,8 +192,11 @@
     "title": "Kikærtedeller med feta & ovnbagte rodfrugter",
     "category": "Aftensmad",
     "prepTimeMin": 45,
-    "tags": ["Vegetar", "Plademad"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar",
+      "Plademad"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2025/01/kikaertedeller.jpg",
     "ingredients": [
       "1 dl quinoa eller bulgur",
       "2 dl vand",
@@ -209,8 +231,11 @@
     "title": "Kua Kling – sydøstasiatisk biksemad",
     "category": "Aftensmad",
     "prepTimeMin": 45,
-    "tags": ["Vegetar", "Smæk på krydderierne"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar",
+      "Smæk på krydderierne"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/03/kua-kling.jpg",
     "ingredients": [
       "4 dl jasminris",
       "5,5 dl vand",
@@ -242,8 +267,11 @@
     "title": "Vietnamesisk pizza (Bánh Tráng Nuóng)",
     "category": "Aftensmad",
     "prepTimeMin": 45,
-    "tags": ["Vegetar", "Nem"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar",
+      "Nem"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/01/vietnamesisk-pizza.jpg",
     "ingredients": [
       "1 stk aubergine",
       "250 g svamp (f.eks. østershatte)",
@@ -277,8 +305,11 @@
     "title": "Kartoffelmos og sovs (med grillet savoy, svamp og tyttebær)",
     "category": "Aftensmad",
     "prepTimeMin": 45,
-    "tags": ["Vegetar", "Comfort food"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar",
+      "Comfort food"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/01/mos-og-sovs.jpg",
     "ingredients": [
       "1-2 stk løg",
       "1 stk hvidløgsfed",
@@ -316,8 +347,12 @@
     "title": "Flækærter med citron og tahin",
     "category": "Aftensmad",
     "prepTimeMin": 60,
-    "tags": ["Vegetar", "Vegansk", "Gryderetter & Supper"],
-    "imageUrl": "",
+    "tags": [
+      "Vegetar",
+      "Vegansk",
+      "Gryderetter & Supper"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2026/01/DSC06473-2.jpg",
     "ingredients": [
       "3 stk løg",
       "3 stk gulerødder",
