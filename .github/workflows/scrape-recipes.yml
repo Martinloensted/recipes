@@ -2,8 +2,8 @@ name: Scrape Aftensmad Recipes
 
 on:
   schedule:
-    # Every Monday at 06:00 UTC
-    - cron: '0 6 * * 1'
+    # Every Saturday at 12:00 UTC
+    - cron: '0 12 * * 6'
   workflow_dispatch:
 
 jobs:
