@@ -1,5 +1,50 @@
 [
   {
+    "id": "vh-gochugaru-koreanske-kimchi-chili-flager",
+    "title": "Gochugaru – koreanske kimchi chili flager",
+    "category": "Aftensmad",
+    "prepTimeMin": 0,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2025/11/gochugaru.jpg",
+    "ingredients": [],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2025/11/gochugaru-koreanske-kimchi-chili-flager/",
+    "baseServings": 2
+  },
+  {
+    "id": "vh-madplaner-xx-guldregn",
+    "title": "Madplaner xx Guldregn",
+    "category": "Aftensmad",
+    "prepTimeMin": 0,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/10/madplan-xx-guldregn.png",
+    "ingredients": [],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2024/10/madplaner-xx-guldregn/",
+    "baseServings": 2
+  },
+  {
+    "id": "vh-syv-opskrifter-paa-vidunderlig-nudelsuppe",
+    "title": "Syv opskrifter på vidunderlig nudelsuppe",
+    "category": "Aftensmad",
+    "prepTimeMin": 3,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/01/nudelsuppe-hoisin.jpg",
+    "ingredients": [],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2024/10/syv-opskrifter-paa-vidunderlig-nudelsuppe/",
+    "baseServings": 2
+  },
+  {
     "id": "vh-nudelsuppe-m-hoisin",
     "title": "Nudelsuppe med hoisin",
     "category": "Aftensmad",
@@ -32,6 +77,295 @@
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2024/01/nudelsuppe-m-hoisin/",
     "baseServings": 1
+  },
+  {
+    "id": "vh-cole-slaw-med-cremet-miso-ingefaer-dressing",
+    "title": "Cole slaw med cremet miso-ingefær-dressing",
+    "category": "Aftensmad",
+    "prepTimeMin": 15,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2026/05/coleslaw-miso-ingefaer-dressing.jpg",
+    "ingredients": [
+      {
+        "amount": "3",
+        "unit": "spsk",
+        "name": "lys miso"
+      },
+      {
+        "amount": "6",
+        "unit": "spsk",
+        "name": "mayo"
+      },
+      {
+        "amount": "1",
+        "unit": "spsk",
+        "name": "lys sirup"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Skal fra 2 lime eller 1 citron + 1,5-2 spsk saft"
+      },
+      {
+        "amount": "1-2",
+        "unit": "fed",
+        "name": "hvidløg, fintrevet"
+      },
+      {
+        "amount": "2",
+        "unit": "tsk",
+        "name": "ingefær, fintrevet"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Strimlet hvidkål"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Strimlet eller groftrevet gulerod"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Bladselleri i tynde skiver"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Æble i små tern"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Godt med mynte og/eller koriander"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Valgfrit: Avokado"
+      }
+    ],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2026/05/cole-slaw-med-cremet-miso-ingefaer-dressing/",
+    "baseServings": 4
+  },
+  {
+    "id": "vh-salat-med-hvidkaal-avokado-feta-og-koriander",
+    "title": "Salat med hvidkål, avokado, feta og koriander",
+    "category": "Aftensmad",
+    "prepTimeMin": 15,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2026/02/salat-med-hvidkaal-1.jpg",
+    "ingredients": [
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Et par håndfulde hvidkål, fintsnittet"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Et lille skvæt olivenolie"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Salt"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Peber"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "avokado"
+      },
+      {
+        "amount": "1",
+        "unit": "håndfuld",
+        "name": "koriander*, fintsnittet"
+      },
+      {
+        "amount": "1",
+        "unit": "spsk",
+        "name": "løg, hakket helt fint"
+      },
+      {
+        "amount": "0,25",
+        "unit": "pakke",
+        "name": "feta"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Lime- eller citronsaft"
+      }
+    ],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2026/02/salat-med-hvidkaal-avokado-feta-og-koriander/",
+    "baseServings": 2
+  },
+  {
+    "id": "vh-retteark-til-lag-paa-lag-1-oplag",
+    "title": "Retteark til LAG PÅ LAG 1. oplag",
+    "category": "Aftensmad",
+    "prepTimeMin": 15,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2026/02/000082490014.jpg",
+    "ingredients": [],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2026/02/retteark-til-lag-paa-lag-1-oplag/",
+    "baseServings": 4
+  },
+  {
+    "id": "vh-hjemmelavet-mayo-den-nemmeste-maade-med-aeg-eller-vegansk",
+    "title": "Hjemmelavet mayo — den nemmeste måde  — med æg eller vegansk",
+    "category": "Aftensmad",
+    "prepTimeMin": 15,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/08/mayo-mayonnaise.jpg",
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "neutral olie (varmpresset rapsolie eller vindruekerneolie)"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "helt æg eller 0,5 dl aquafaba (vandet fra kikærter på dåse) for en vegansk mayo"
+      },
+      {
+        "amount": "1",
+        "unit": "tsk",
+        "name": "dijonsennep"
+      },
+      {
+        "amount": "1",
+        "unit": "tsk",
+        "name": "æblecidereddike"
+      },
+      {
+        "amount": "1/2",
+        "unit": "tsk",
+        "name": "salt"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Et drys friskkværnet peber"
+      }
+    ],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2024/09/hjemmelavet-mayo-den-nemmeste-maade-med-aeg-eller-vegansk/",
+    "baseServings": 2
+  },
+  {
+    "id": "vh-professorens-groenne-groed-i-min-version",
+    "title": "Professorens grønne grød – i min version",
+    "category": "Aftensmad",
+    "prepTimeMin": 15,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/08/gron-grod.jpg",
+    "ingredients": [
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "frosne broccolibuketter"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "En stor terning frossen helbladet spinat eller 1 god håndfuld frisk grønkål"
+      },
+      {
+        "amount": "0,5",
+        "unit": "",
+        "name": "citron, skal og saft"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Godt med mynte (sådan 8-10 store blade) og nogle gange også lidt basilikum"
+      },
+      {
+        "amount": "4-5",
+        "unit": "",
+        "name": "små dadler eller 3 store"
+      },
+      {
+        "amount": "2",
+        "unit": "tsk",
+        "name": "hampefrø*"
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "kold urtete"
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "æblemost"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Et stykke fennikel (en god skive agtigt)"
+      },
+      {
+        "amount": "6",
+        "unit": "",
+        "name": "cm agurk (kan udelades)"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "ca. 30-50 g sojabønner (edamame) fra frost (jeg har købt øko i Føtex)"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Evt. lidt ekstra urtete"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "En god håndfuld frisk frugt som fersken, bær, ananas, mango, etc."
+      },
+      {
+        "amount": "1",
+        "unit": "spsk",
+        "name": "cashewsmør eller anden nøddesmør"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Hjemmelavet granola (tilsætter lidt ad gangen, så det er sprødt til jeg når bunden af skålen)"
+      }
+    ],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2024/08/professorens-groenne-groed-i-min-version/",
+    "baseServings": 2
   },
   {
     "id": "vh-pasta-alfredo-med-groent",
@@ -115,6 +449,57 @@
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2024/05/pizza-bianca-med-majs-ramsloegspistou/",
     "baseServings": 2
+  },
+  {
+    "id": "vh-kartoffelsalat-med-creme-fraiche-urter",
+    "title": "Kartoffelsalat med creme fraiche og urter",
+    "category": "Aftensmad",
+    "prepTimeMin": 30,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/08/kartoffelsalat.jpg",
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "kg",
+        "name": "kartofler, kogte og afkølede"
+      },
+      {
+        "amount": "200",
+        "unit": "g",
+        "name": "creme fraiche 38 %"
+      },
+      {
+        "amount": "3",
+        "unit": "håndfuld",
+        "name": "e valgfrie urter, her: 2 håndfulde bredbladet persille og 1 håndfuld purløg og oregano"
+      },
+      {
+        "amount": "0,5",
+        "unit": "",
+        "name": "rødløg el. alm løg"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "En kvart saltet citron (kan udelades eller erstat evt. med skallen fra 1 lille citron)"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Saft fra ca. en kvart citron"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Salt & peber"
+      }
+    ],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2024/08/kartoffelsalat-med-creme-fraiche-urter/",
+    "baseServings": 4
   },
   {
     "id": "vh-hasselbacksbaade-med-cafe-de-paris-yoghurt",
@@ -343,6 +728,97 @@
     "baseServings": 4
   },
   {
+    "id": "vh-nem-jordbaertaerte-med-koldskaalscreme-pistaciebund",
+    "title": "Nem jordbærtærte med koldskålscreme og pistaciebund",
+    "category": "Aftensmad",
+    "prepTimeMin": 45,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/06/jordbaertaerte.jpg",
+    "ingredients": [
+      {
+        "amount": "100-125",
+        "unit": "g",
+        "name": "pistaciemel (ca. 200 g saltede pistacie med skal) eller andet nøddemel"
+      },
+      {
+        "amount": "300",
+        "unit": "g",
+        "name": "tvebakker"
+      },
+      {
+        "amount": "6",
+        "unit": "",
+        "name": "æg"
+      },
+      {
+        "amount": "400",
+        "unit": "g",
+        "name": "rørsukker"
+      },
+      {
+        "amount": "65",
+        "unit": "g",
+        "name": "pasteuriseret æggeblomme"
+      },
+      {
+        "amount": "0,5",
+        "unit": "",
+        "name": "citron, skal og saft"
+      },
+      {
+        "amount": "25",
+        "unit": "g",
+        "name": "maizena"
+      },
+      {
+        "amount": "40",
+        "unit": "g",
+        "name": "sukker"
+      },
+      {
+        "amount": "0,5",
+        "unit": "",
+        "name": "vaniljestang"
+      },
+      {
+        "amount": "200",
+        "unit": "g",
+        "name": "ymer / A83 /tykmælk"
+      },
+      {
+        "amount": "20",
+        "unit": "g",
+        "name": "smør"
+      },
+      {
+        "amount": "250",
+        "unit": "g",
+        "name": "(2,5 dl) piskefløde"
+      },
+      {
+        "amount": "0,5",
+        "unit": "",
+        "name": "citron, skal og saft"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "ca. 1 kg jordbær eller anden frugt/bær"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Hyldeblomster eller hybenroseblade til pynt"
+      }
+    ],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2024/06/nem-jordbaertaerte-med-koldskaalscreme-pistaciebund/",
+    "baseServings": 8
+  },
+  {
     "id": "vh-flaekaerter-med-citron-og-tahin",
     "title": "Flækærter med citron og tahin",
     "category": "Aftensmad",
@@ -376,5 +852,283 @@
     "source": "vegetariskhverdag",
     "url": "https://vegetariskhverdag.dk/2026/01/flaekaerter-med-citron-og-tahin/",
     "baseServings": 4
+  },
+  {
+    "id": "vh-aeble-og-timiangalette",
+    "title": "Æble- og timiangalette",
+    "category": "Aftensmad",
+    "prepTimeMin": 60,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/01/DSC01727.jpg",
+    "ingredients": [
+      {
+        "amount": "280",
+        "unit": "g",
+        "name": "hvedemel"
+      },
+      {
+        "amount": "20",
+        "unit": "g",
+        "name": "havregryn"
+      },
+      {
+        "amount": "1",
+        "unit": "tsk",
+        "name": "salt"
+      },
+      {
+        "amount": "125",
+        "unit": "g",
+        "name": "flormelis"
+      },
+      {
+        "amount": "150",
+        "unit": "g",
+        "name": "koldt smør"
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "æg (1,5 til dej, 0,5 til pensling)"
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "æbler (til kompot)"
+      },
+      {
+        "amount": "4",
+        "unit": "spsk",
+        "name": "smør"
+      },
+      {
+        "amount": "4",
+        "unit": "spsk",
+        "name": "sukker"
+      },
+      {
+        "amount": "2",
+        "unit": "spsk",
+        "name": "æblecidereddike"
+      },
+      {
+        "amount": "2",
+        "unit": "tsk",
+        "name": "kartoffelmel"
+      },
+      {
+        "amount": "4",
+        "unit": "",
+        "name": "æbler"
+      },
+      {
+        "amount": "0,5",
+        "unit": "dl",
+        "name": "sukker"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Væsken fra kompotten"
+      },
+      {
+        "amount": "1",
+        "unit": "spsk",
+        "name": "frisk timian (eller rosmarin)"
+      },
+      {
+        "amount": "1",
+        "unit": "nip",
+        "name": "salt"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Vaniljeis eller creme fraiche"
+      }
+    ],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2024/10/aeble-og-timiangalette/",
+    "baseServings": 6
+  },
+  {
+    "id": "vh-safranssnurrer-med-citrus-og-vanilje",
+    "title": "Safranssnurrer med citrus og vanilje",
+    "category": "Aftensmad",
+    "prepTimeMin": 65,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/12/safransbullar.jpg",
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "g",
+        "name": "finknust safran"
+      },
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "kogende vand"
+      },
+      {
+        "amount": "150",
+        "unit": "g",
+        "name": "koldt vand"
+      },
+      {
+        "amount": "50",
+        "unit": "g",
+        "name": "kartoffelmospulver*"
+      },
+      {
+        "amount": "5",
+        "unit": "g",
+        "name": "salt (ca 1 tsk)"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "æg (ca 50 g)"
+      },
+      {
+        "amount": "30",
+        "unit": "g",
+        "name": "gær"
+      },
+      {
+        "amount": "105",
+        "unit": "g",
+        "name": "sukker"
+      },
+      {
+        "amount": "450",
+        "unit": "g",
+        "name": "hvedemel"
+      },
+      {
+        "amount": "80",
+        "unit": "g",
+        "name": "smør"
+      },
+      {
+        "amount": "25",
+        "unit": "g",
+        "name": "neutral olie"
+      },
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "blødt eller revet smør"
+      },
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "sukker"
+      },
+      {
+        "amount": "0,25",
+        "unit": "tsk",
+        "name": "salt"
+      },
+      {
+        "amount": "0,25",
+        "unit": "tsk",
+        "name": "vaniljepulver (kan udelades)"
+      },
+      {
+        "amount": "2",
+        "unit": "tsk",
+        "name": "maizena (kan erstattes af hvedemel)"
+      },
+      {
+        "amount": "0,5",
+        "unit": "",
+        "name": "appelsin, skal og saft"
+      },
+      {
+        "amount": "50",
+        "unit": "g",
+        "name": "rosiner, hakkede"
+      },
+      {
+        "amount": "50",
+        "unit": "g",
+        "name": "sukker"
+      },
+      {
+        "amount": "50",
+        "unit": "g",
+        "name": "vand"
+      },
+      {
+        "amount": "0,25",
+        "unit": "tsk",
+        "name": "vaniljepulver (kan udelades)"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Skal og saft fra 0,5 appelsin"
+      }
+    ],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2024/12/safranssnurrer-med-citrus-og-vanilje/",
+    "baseServings": 2
+  },
+  {
+    "id": "vh-mirabelle-earl-grey-marmelade",
+    "title": "Mirabelle og earl grey marmelade",
+    "category": "Aftensmad",
+    "prepTimeMin": 70,
+    "tags": [
+      "Vegetar",
+      "Camilla Skov"
+    ],
+    "imageUrl": "https://vegetariskhverdag.dk/wp-content/uploads/2024/08/mirabelle-marmelade.jpg",
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "kg",
+        "name": "mirabeller (eller valgfrie aromatiske blommer)"
+      },
+      {
+        "amount": "500",
+        "unit": "g",
+        "name": "sukker"
+      },
+      {
+        "amount": "0,25",
+        "unit": "tsk",
+        "name": "salt"
+      },
+      {
+        "amount": "0,5",
+        "unit": "tsk",
+        "name": "natron"
+      },
+      {
+        "amount": "0,25-0,5",
+        "unit": "tsk",
+        "name": "earl grey te efter smag* (kan udelades eller erstattes af vanilje)"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Vinsyre eller citronsyre"
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Syltetøjsglas"
+      }
+    ],
+    "source": "vegetariskhverdag",
+    "url": "https://vegetariskhverdag.dk/2024/08/mirabelle-earl-grey-marmelade/",
+    "baseServings": 2
   }
 ]
